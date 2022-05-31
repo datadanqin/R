@@ -1,2 +1,6 @@
 ### R 
-Including 2 major project: Titanic and Guns. Also homeworks such as Linear regression, Non linear regression, classification and clustering tasks.
+Guns Project:
+Using linear regression to check if shall law reduce crime in the US.
+
+Titanic Porject:
+To predict survival probability
